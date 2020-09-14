@@ -1,2 +1,2 @@
 # Programming-languages
-The coding I did for the PL course at NTUA
+The exercises for the Programming Languages course at NTUA
