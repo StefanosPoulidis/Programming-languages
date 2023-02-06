@@ -1,5 +1,5 @@
 # Programming-languages
-The exercises for the Programming Languages course at NTUA
+The exercises for the Programming Languages course.
 
 For the course, we had to get in touch with 5 different programming languages:
 
